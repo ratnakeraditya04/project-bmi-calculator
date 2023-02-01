@@ -1,2 +1,2 @@
-# Calculator---Learning-Backend-Development
-This is the Web Application that I learn to develop and deploy. 
+# BMI - Calculator 
+This is a web application that I developed while I was just started learning Backend Development.This application helps you in calulating the BMI - Body Mass Index of a person.  
